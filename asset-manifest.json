@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TextZa/static/css/main.31d6cfe0.css",
+    "main.js": "/TextZa/static/js/main.d968bdcf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextZa/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextZa/index.html",
+    "main.d968bdcf.js.map": "/TextZa/static/js/main.d968bdcf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextZa/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d968bdcf.js"
+  ]
+}
